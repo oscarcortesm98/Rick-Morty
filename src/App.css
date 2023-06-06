@@ -1,0 +1,10 @@
+.app {
+  background-position: center;
+  background-size: cover;
+  justify-items: center;    
+  min-height : 100vh;
+}
+
+.app.bg {
+  background-image: url(/images/bg/bg-space.png);
+}
